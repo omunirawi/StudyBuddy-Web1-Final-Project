@@ -33,5 +33,5 @@ I added `VIDEO_NOTES.md` with simple explanations to help during the required re
 
 
 ## Submission files
-- github.txt (GitHub repo link)
+- [github.txt ](https://github.com/omunirawi/StudyBuddy-Web1-Final-Project.git) (GitHub repo link)
 - https://youtu.be/4Ui8rkL-bSE (YouTube video link)
